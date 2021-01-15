@@ -1,1 +1,1 @@
-some text
+You just read this text.
